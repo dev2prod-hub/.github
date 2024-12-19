@@ -1,5 +1,13 @@
 # 🚀 Dev2Prod Hub
 
+
+Main idea: Platform to focus of the development to get rid of the delivery and other distractions.
+I need some coming soon page to start to collect emails.
+
+1. Developer create a YAML  config file in the root of the project.
+2. The platform will read the config file and take care about CI/CD, Observability, Security, etc.
+
+
 ### Simplifying App Deployment  
 From Development to Production with **Kubernetes**, **No-Code**, and **Cloud-Native Automation**.
 
