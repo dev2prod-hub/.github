@@ -8,8 +8,6 @@ I need some coming soon page to start to collect emails.
 2. The platform will read the config file and take care about CI/CD, Observability, Security, etc.
 
 
-### Simplifying App Deployment  
-From Development to Production with **Kubernetes**, **No-Code**, and **Cloud-Native Automation**.
 
 ---
 
