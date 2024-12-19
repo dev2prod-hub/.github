@@ -1,8 +1,7 @@
 # 🚀 Dev2Prod Hub
 
 
-Main idea: Platform to focus of the development to get rid of the delivery and other distractions.
-I need some coming soon page to start to collect emails.
+The main idea of the platform is: to help developers focus on their work by eliminating distractions such as delivery and other interruptions.
 
 1. Developer create a YAML  config file in the root of the project.
 2. The platform will read the config file and take care about CI/CD, Observability, Security, etc.
